@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Formatting Elements on HTML for "learners" </h1>
+<h4> To understand, keep practicing ! </h4>
+<p> "MARKED TEXT"  (MARK) <mark> Hi tomrichu </mark> </p>
+<P> "INSERTED TEXT"(INS) <ins> Hi tomrichu </ins> </P>
+<p> "DELETED TEXT" (DEL) <del> Hi tomrichu </del> </P>
+<P> "SUPERSCRIPT TEXT" (SUP) <sup> Hi tomrichu </sup> </P>
+<p> "SUBSCRIPT TEXT" (SUB) <sub> Hi tomrichu </sub> </P>
+<P> "BOLD TEXT" (B) <b> Hi tomrichu </b> </P>
+<P> "ITALIC TEXT" (I) <i> Hi tomrichu </i> </P>
+<P> "STRONG TEXT" (STRONG) <strong> Hi tomrichu </strong> </P>
+<P> "EMPHASIZED TEXT" (EM) <em> Hi tomrichu </em> </P>
+<P> "SMALL TEXT" (SMALL) <small> Hi tomrichu </small> </P>
+<p> <em><b>#Feel free to make changes ..... thanks ! developed for learners by a learner (@tomrichke)</b></em> </p>
+</body>
+</html>
